@@ -5,8 +5,9 @@
   "public": "../public/",
   "auth": {
     "token": {
-      "secret": "tRfsP6pKobeE8/nA4P7M9sj3UBqjnJRO3XqjUasS3cDfXZ32P2ODtCmOAWMRaRTB/zLn/c1VecB7UnVdI9hLPQ=="
+      "secret": "thereisnocowlevel"
     },
-    "local": {}
+    "local": {},
+    "successRedirect": "/chat.html"
   }
 }
